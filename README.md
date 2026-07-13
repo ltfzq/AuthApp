@@ -4,6 +4,12 @@ A React Native app built with **Expo SDK 57** that demonstrates a complete authe
 
 ---
 
+## Screen Recording Demonstration
+
+**Video Demo:** https://drive.google.com/file/d/1n_nXWCoGUna0qsUpnmMkh0VsPCwkyR5j/view?usp=sharing
+
+---
+
 ## Features
 
 ### Authentication
